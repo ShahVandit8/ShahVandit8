@@ -13,9 +13,9 @@ Passionate full-stack web developer and Blockchain enthusiast with a journey roo
 - ⚡ Fun fact about me: I like to make side projects 😅
 
 <a href="https://www.github.com/ShahVandit8" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/ShahVandit8?logo=github&style=for-the-badge&color=3382ed&labelColor=222a2e" /></a>
+src="https://img.shields.io/github/followers/ShahVandit8?logo=github&style=for-the-badge&color=3382ed&labelColor=222a2e" /></a> &nbsp;
 <a href="https://www.x.com/VanditHShah" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/VanditHShah?logo=x&style=for-the-badge&color=3382ed&labelColor=222a2e" /></a>
+src="https://img.shields.io/twitter/follow/VanditHShah?logo=x&style=for-the-badge&color=3382ed&labelColor=222a2e" /></a> &nbsp;
 ### Skills
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><picture>
@@ -108,7 +108,7 @@ href="http://www.github.com/ShahVandit8"><img src="https://github-readme-stats.v
 <a href="http://www.github.com/ShahVandit8"><img
 src="https://streak-stats.demolab.com/?user=ShahVandit8&stroke=ffffff&background=222a2e&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a> <br/>
 <br/>
-<a href="http://www.github.com/ShahVandit8"><img width="60%" src="https://github-readme-activity-graph.vercel.app/graph?username=ShahVandit8&bg_color=222a2e&color=ffffff&line=3382ed&point=ffffff&area_color=222a2e&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" /></a> <br/>
+<a href="http://www.github.com/ShahVandit8"><img width="75%" src="https://github-readme-activity-graph.vercel.app/graph?username=ShahVandit8&bg_color=222a2e&color=ffffff&line=3382ed&point=ffffff&area_color=222a2e&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" /></a> <br/>
 
 ### Support
 
