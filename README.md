@@ -7,7 +7,7 @@ Passionate full-stack web developer and Blockchain enthusiast with a journey roo
 - 🌍 I'm from Toronto, Canada
 - 📫 Reach me at [shahvandit8@gmail.com](mailto:shahvandit8@gmail.com)
 - 👨‍💻 Check out my portfolio at [MyPortfolio](http://www.vandit-shah.me)
-- 🔭 I'm currently working on [ProfileX](www.profilex.dev)
+- 🔭 I'm currently working on [ProfileX](https://www.profilex.dev)
 - 🌱 I'm currently learning Web3 and Solidty
 - 💬 Ask me about MERN Stack and Blockchain
 - ⚡ Fun fact about me: I am a secret ninja 🥷
