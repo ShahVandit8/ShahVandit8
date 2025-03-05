@@ -135,4 +135,4 @@ src="https://streak-stats.demolab.com/?user=shahvandit8&stroke=ffffff&background
 <br/>
 <br/>
 
-<p style="margin-top: 15px">This Profile is created with <a href="https://profile-x.vandit-shah.me/" target="_blank" rel="noreferrer">Profile-X </a> ❤️ </p>
+<p style="margin-top: 15px">This Profile is created with <a href="https://profilex.dev/" target="_blank" rel="noreferrer">Profile-X </a> ❤️ </p>
